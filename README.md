@@ -1,5 +1,5 @@
-# viral_gametheory
-02-601 Project
+# hostparasite_gametheory
+02-601 Programming for Scientists project
 
 Welcome to the host-parasite game theory simulator! The goal of this program is
 to give you an easy to use customizable simulator to observe host-parasite population
